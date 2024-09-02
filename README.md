@@ -1,6 +1,6 @@
 This project was done following a course. The backend APIs were tested in VsCode Thunder Client Extension
 
-![Products Page](https://drive.google.com/uc?export=view&id=1bBrvKmlZJ-1tdg3pog8MHvXKnfF4B3yAFuCrWTlDefG)
+![Products Page](https://drive.google.com/uc?export=view&id=1tdg3pog8MHvXKnfF4B3yAFuCrWTlDefG)
 
  
 **TECH STACK USED**
