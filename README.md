@@ -21,5 +21,5 @@ This project was done following a course. The backend APIs were tested in VsCode
 - Pagination to get Limited Results
 - Single Product Page
 
--Live Project Deployed at: https://delightful-gumdrop-78b594.netlify.app/products
+-Live Project Deployed at: https://delightful-gumdrop-78b594.netlify.app
 
